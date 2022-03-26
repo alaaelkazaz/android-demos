@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">two_activities</string>
+    <string name="editTextTextPersonName">Enter Text</string>
+    <string name="show_message">Show Message</string>
+</resources>
